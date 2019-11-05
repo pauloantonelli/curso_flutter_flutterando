@@ -1,0 +1,1 @@
+class IncrementController implements BlocBase {}
